@@ -75,3 +75,7 @@ Nous avons donc conçu une applications mobile avec différentes fonctionnalité
   * Code C ( WebServ ) arduino pour relation ESP8266 et TMP36
   * Code C ( temperatursensor ) arduino pour capter la température sans l'ESP8266 --- Utilisation pour les tests de capteur
 
+## Bibliothèques installées
+  * Entrer http://arduino.esp8266.com/stable/package_esp8266com_index.json, https://dl.espressif.com/dl/package_esp32_index.json sur l'IDE Arduino dans   File>Preferences>Additional Boards Manager URLs field. Vous pouvez ajouter plusieurs URL en les séparants de virgule.
+  
+  
