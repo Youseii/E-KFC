@@ -3,7 +3,7 @@ School Project | Workshop -- Smart Campagne -- Octobre 2022
 
 Projet en Groupe  -- Gagnant du Workshop EPSI Grenoble 
 
-Consigne pour le projet :
+## ✏️ Consigne pour le projet :
 
 L'étendu du réseau internet en France métropolitaine a facilité la migration des familles qui quittent la ville pour vivre à la campagne et travailler à distance. La crise sanitaire a favorisé cet environnement de travail qui bénéficie notamment le secteur de service.
 Qu'en est-il de nos campagnes et de nos agriculteurs, éleveurs, horticulteurs et en général tous les acteurs liés à la production alimentaire ? Comment les nouvelles technologies pourraient les aider à mieux travailler en tenant en compte toutes les variables des métiers en lien avec la nature ? Comment peut-on créer une smart camapagne ?
