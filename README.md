@@ -1,7 +1,7 @@
 ## 🐔 E-KFC
 School Project | Workshop -- Smart Campagne -- Octobre 2022
 
-**Projet en Groupe  -- Gagnant du Workshop EPSI Grenoble__**
+**Projet en Groupe  -- Gagnant du Workshop EPSI Grenoble_**
 
 ## ✏️ Consigne pour le projet :
 
