@@ -1,4 +1,4 @@
-## 🐔 E-KFC
+## 📄 E-KFC
 School Project | Workshop -- Smart Campagne -- Octobre 2022
 
 **Projet en Groupe -- Gagnant du Workshop EPSI Grenoble**
@@ -55,7 +55,7 @@ Afin de permettre une meilleure évaluation des rendus des équipes gagnantes pa
 * Python & C
 * BDD - PhpMyAdmin
 
-## 📄 Explication du Projet E-KFC:
+## 🐔 Explication du Projet E-KFC:
 
 Notre but est de concevoir une application mobile prête à aider nos eleveurs de poule à automatiser un poulaillier. 
 Nous avons donc conçu une applications mobile avec différentes fonctionnalitées : 
