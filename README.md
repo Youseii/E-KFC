@@ -77,5 +77,6 @@ Nous avons donc conçu une applications mobile avec différentes fonctionnalité
 
 ## Bibliothèques installées
   * Entrer http://arduino.esp8266.com/stable/package_esp8266com_index.json, https://dl.espressif.com/dl/package_esp32_index.json sur l'IDE Arduino dans   File>Preferences>Additional Boards Manager URLs field. Vous pouvez ajouter plusieurs URL en les séparants de virgule.
+  * Pour plus de renseignements concernant l'ESP --> https://arduino-esp8266.readthedocs.io/en/latest/esp8266wifi/readme.html
   
   
