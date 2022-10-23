@@ -17,7 +17,7 @@ Toute innovation permettant d’améliorer l’expérience utilisateur sera appr
 Rendus intermédiaires
 Lundi, fin de journée : point avec le coach local pour obtenir son feu vert pour la poursuite du projet.
 
-COMPETENCES TRANSVERSALES ET PROFESSIONNELLES VISEES :
+COMPETENCES TRANSVERSALES ET PROFESSIONNELLES VISEES:
 SAVOIR-ÊTRE :
 
 - Travailler de façon autonome vers un objectif commun à toute l’équipe
