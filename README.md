@@ -70,4 +70,8 @@ Nous avons donc conçu une applications mobile avec différentes fonctionnalité
   * Relation entre l'arduino et la base de donnée en Python
   * Configuration du Serveur Web présent sur l'ESP8266 pour envoyé les données sur ce serveur et ainsi les récoltés pour l'application mobile
 
+### 👨‍💻 Code sur GitHub
+  * Code Python Relation BDD et Arduino ( XAMP est utilisé pour la BDD en local )
+  * Code C ( WebServ ) arduino pour relation ESP8266 et TMP36
+  * Code C ( temperatursensor ) arduino pour capter la température sans l'ESP8266 --- Utilisation pour les tests de capteur
 
