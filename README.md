@@ -55,7 +55,7 @@ Languages et Technologies utilisées :
 * Python & C
 * BDD - PhpMyAdmin
 
-### 📄 Explication du Projet E-KFC:
+## 📄 Explication du Projet E-KFC:
 
 Notre but est de concevoir une application mobile prête à aider nos eleveurs de poule à automatiser un poulaillier. 
 Nous avons donc conçu une applications mobile avec différentes fonctionnalitées : 
