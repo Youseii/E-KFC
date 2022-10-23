@@ -47,7 +47,7 @@ Après-midi :
 La solution doit être fonctionnelle et ne doit pas nécessiter d’installation.
 Afin de permettre une meilleure évaluation des rendus des équipes gagnantes par un panel de jurys appartenant aux différents campus, les résultats finaux seront diffusés en milieu de semaine suivante.
 
-## Languages et Technologies utilisées : 
+### Languages et Technologies utilisées : 
 * Carte Arduino UNO
 * Carte Réseau ESP8266
 * Capteur de température TMP36
