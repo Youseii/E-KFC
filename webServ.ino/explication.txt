@@ -1,0 +1,10 @@
+Webserver sous ESP8266 qui une fois le programme executé avec comme config
+le SSID & MDP du partage de co, cela permet d'accéder à une page web.
+
+Dans le serial monitor, une adresse Ip s'affiche, il faut taper sur
+une barre de recherche cette adresse IP pour accéder au serveur web.
+
+On nous affiche la température, avec un format JSON pour etre traiter par 
+l'équipe mobile
+
+L'ESP doit etre connecter au PC, pour fonctionner.
