@@ -70,7 +70,7 @@ Nous avons donc conçu une applications mobile avec différentes fonctionnalité
   * Relation entre l'arduino et la base de donnée en Python
   * Configuration du Serveur Web présent sur l'ESP8266 pour envoyé les données sur ce serveur et ainsi les récoltés pour l'application mobile
 
-## L'application mobile est présente sur le GitHub d'un de mes camarades ( Je n'ai pas son Gihtub )
+# L'application mobile est présente sur le GitHub d'un de mes camarades ( Je n'ai pas son Gihtub )
 
 
 ### 👨‍💻 Code sur GitHub
