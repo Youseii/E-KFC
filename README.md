@@ -2,7 +2,8 @@
 School Project | Workshop -- Smart Campagne -- Octobre 2022
 
 **Projet en Groupe -- Gagnant du Workshop EPSI Grenoble**
-** 3ème sur 16 écoles niveau National**
+
+**3ème sur 16 écoles niveau National**
 
 ## ✏️ Consigne pour le projet :
 
